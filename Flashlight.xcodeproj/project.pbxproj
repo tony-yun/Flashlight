@@ -16,6 +16,7 @@
 		6D32685F2AB548B60058E3E0 /* FlashlightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D32685E2AB548B60058E3E0 /* FlashlightTests.swift */; };
 		6D3268692AB548B60058E3E0 /* FlashlightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D3268682AB548B60058E3E0 /* FlashlightUITests.swift */; };
 		6D32686B2AB548B60058E3E0 /* FlashlightUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D32686A2AB548B60058E3E0 /* FlashlightUITestsLaunchTests.swift */; };
+		6D39A9F52AB6C60C00DB2123 /* Sound in Resources */ = {isa = PBXBuildFile; fileRef = 6D39A9F42AB6C60C00DB2123 /* Sound */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6D3268642AB548B60058E3E0 /* FlashlightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashlightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D3268682AB548B60058E3E0 /* FlashlightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashlightUITests.swift; sourceTree = "<group>"; };
 		6D32686A2AB548B60058E3E0 /* FlashlightUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashlightUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6D39A9F42AB6C60C00DB2123 /* Sound */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sound; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6D3268502AB548B60058E3E0 /* Assets.xcassets */,
 				6D3268522AB548B60058E3E0 /* LaunchScreen.storyboard */,
 				6D3268552AB548B60058E3E0 /* Info.plist */,
+				6D39A9F42AB6C60C00DB2123 /* Sound */,
 			);
 			path = Flashlight;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				6D3268542AB548B60058E3E0 /* LaunchScreen.storyboard in Resources */,
 				6D3268512AB548B60058E3E0 /* Assets.xcassets in Resources */,
+				6D39A9F52AB6C60C00DB2123 /* Sound in Resources */,
 				6D32684F2AB548B50058E3E0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
