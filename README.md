@@ -7,4 +7,4 @@ A simple flashlight app made with storyboard
 2. 버튼 on 시 아이폰 flashlight켜기, 반대로 off 시 flashlight끄기.
 3. launchscreen 추가, autolayout.
 
-Uploading RPReplay_Final1695735578.mp4…
+https://github.com/tony-yun/Flashlight/assets/96409645/212c3499-cb6a-4d00-b0ac-ed0197d25c21
